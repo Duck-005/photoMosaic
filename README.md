@@ -23,7 +23,7 @@ This tool uses `pillow` and `numpy` for working with the image pixel data.
 > “It gives me a headache just trying to think down to your level.” 
 > \- marvin the depressed android
 
-#### credits
+## credits
 
 This project was made following the blog by Robert Heaton.
 Follow his blog [here](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/).
