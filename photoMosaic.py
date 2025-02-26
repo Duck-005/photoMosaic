@@ -35,6 +35,7 @@ def mosaic(pixelated_array):
             current_dist = float('inf')
             fileNameMatch = None
             for fileName, mean in mapping.items():
+                
                 # formula for calculating the least distance from the mean and the cache entry
                 dist = math.sqrt(
                     (mean[0] - blockMean[0])**2 + 
